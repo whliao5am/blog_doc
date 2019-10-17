@@ -13,3 +13,23 @@
 文章地址：[CNN网络自动识别验证码](https://neroasmar.top/fangzheng-code/)（文内用方正教务系统做演示）
 
 github地址：[fangzheng-code](https://github.com/NeroAsmarr/blog_doc/tree/master/fangzheng-code)
+
+内容展示：
+
+- 原验证码图片：
+
+![code_image](doc/image/0dej.png)
+
+- 灰度处理：
+
+![gray_code_image](doc/image/0a13-2.png)
+
+- 模型验证精度
+
+![gray_code_image](doc/image/acc.png)
+
+- 结果展示
+
+  
+
+![gray_code_image](doc/image/predict_result.png)
