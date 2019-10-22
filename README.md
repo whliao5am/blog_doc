@@ -8,9 +8,9 @@
 
 ## 1. CNN网络自动识别验证码
 
-文章地址：[CNN网络自动识别验证码](https://neroasmar.top/fangzheng-code/)（文内用方正教务系统做演示）
+文章地址：[CNN网络自动识别验证码](https://neroasmar.top/fangzheng-code/)（文内用正方教务系统做演示）
 
-github地址：[fangzheng-code](https://github.com/NeroAsmarr/blog_doc/tree/master/fangzheng-code)
+github地址：[zhengfang-code](https://github.com/NeroAsmarr/blog_doc/tree/master/zhengfang-code)
 
 内容展示：
 
