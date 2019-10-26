@@ -2,28 +2,28 @@
 
 有关个人blog文章相关的文档/源码的合集，持续更新各种基础教程和应用实现ing... 
 
-- github项目：[blog_doc](https://github.com/NeroAsmarr/blog_doc)
+包括：机器学习、深度学习、爬虫等
 
-- blog地址：[NEROASMAR.TOP](https://neroasmar.top/)
+> github项目：[blog_doc](https://github.com/NeroAsmarr/blog_doc)
 
-## 1. CNN网络自动识别验证码
+> blog地址：[NEROASMAR.TOP](https://neroasmar.top/)
 
-文章地址：[CNN网络自动识别验证码](https://neroasmar.top/fangzheng-code/)（文内用正方教务系统做演示）
+## 1. CNN网络自动识别验证码（keras实现）
+
+文章地址：[CNN网络自动识别验证码（keras实现）](https://neroasmar.top/fangzheng-code/)（使用正方教务系统的验证码做实现）
 
 github地址：[zhengfang-code](https://github.com/NeroAsmarr/blog_doc/tree/master/zhengfang-code)
 
-内容展示：
+结果展示：
 
-- 原验证码图片：
+![zhengfang_predict_result](zhengfang-code/image/predict_result.png)
 
-![code_image](doc/image/0dej.png)
+## 2. LSTM网络对对联（pytorch实现）
 
-- 模型验证精度：
+文章地址：[LSTM网络自动对对联（pytorch实现）](https://neroasmar.top/couplet-lstm/)
 
-![gray_code_image](doc/image/acc.png)
+github地址：[couplet-lstm](https://github.com/NeroAsmarr/blog_doc/tree/master/couplet-lstm)
 
-- 结果展示：
+结果展示：
 
-![gray_code_image](doc/image/predict_result.png)
-
-## 2. 
+![gray_code_image](couplet-lstm/image/result.png)
