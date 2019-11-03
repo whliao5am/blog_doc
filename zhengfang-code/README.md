@@ -4,7 +4,7 @@
 
 注：代码文件为jupyter notebook文档
 
-> 文章地址：[CNN网络自动识别验证码](https://neroasmar.top/fangzheng-code/)（使用正方教务系统的验证码做实现）
+> 文章地址：[CNN网络自动识别验证码](https://neroasmar.top/zhengfang-code/)（使用正方教务系统的验证码做实现）
 
 > github地址：[zhengfang-code](https://github.com/NeroAsmarr/blog_doc/tree/master/zhengfang-code)
 
