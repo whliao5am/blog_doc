@@ -43,3 +43,13 @@ github地址：[perspective-transform](https://github.com/NeroAsmarr/blog_doc/tr
 结果展示：
 
 ![gray_code_image](perspective-transform/image/result.png)
+
+## 4. 
+
+文章地址：[OpenCV实现简单的文件扫描器](https://neroasmar.top/document-scanner/)
+
+github地址：[document-scanner](https://github.com/NeroAsmarr/blog_doc/tree/master/document-scanner)
+
+结果展示：
+
+![document-scanner](document-scanner/image/result.png)
