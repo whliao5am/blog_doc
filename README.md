@@ -53,3 +53,9 @@ github地址：[document-scanner](https://github.com/NeroAsmarr/blog_doc/tree/ma
 结果展示：
 
 ![document-scanner](document-scanner/image/result.png)
+
+## 6. batch_modify_file_content
+
+文章地址：[一个批量替换文件内容的Python小脚本](https://neroasmar.top/batch_modify_file_content/)
+
+github地址：[batch_modify_file_content](https://github.com/NeroAsmarr/blog_doc/tree/master/batch_modify_file_content)
