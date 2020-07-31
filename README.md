@@ -59,3 +59,10 @@ github地址：[document-scanner](https://github.com/NeroAsmarr/blog_doc/tree/ma
 文章地址：[一个批量替换文件内容的Python小脚本](https://neroasmar.top/batch_modify_file_content/)
 
 github地址：[batch_modify_file_content](https://github.com/NeroAsmarr/blog_doc/tree/master/batch_modify_file_content)
+
+## 7. 网易云音乐HTML5随机播放器
+
+文章地址：[网易云音乐HTML5随机播放器](https://neroasmar.top/wangyiyun-html/)
+
+github地址：[wangyiyun-html](https://github.com/NeroAsmarr/blog_doc/tree/master/wangyiyun-html)
+
