@@ -20,7 +20,7 @@ github地址：[labelme_batch](https://github.com/NeroAsmarr/blog_doc/tree/maste
 
 ![gray_code_image](perspective-transform/image/result.png)
 
-文章地址：[透视变换原理及其Opencv实现）](https://neroasmar.top/perspective-transform/)
+文章地址：[透视变换原理及其Opencv实现）](https://zhuanlan.zhihu.com/p/627965231)
 
 github地址：[perspective-transform](https://github.com/NeroAsmarr/blog_doc/tree/master/perspective-transform)
 
@@ -28,7 +28,7 @@ github地址：[perspective-transform](https://github.com/NeroAsmarr/blog_doc/tr
 
 ![document-scanner](document-scanner/image/result.png)
 
-文章地址：[OpenCV实现简单的文件扫描器](https://neroasmar.top/document-scanner/)
+文章地址：[OpenCV实现简单的文件扫描器](https://zhuanlan.zhihu.com/p/627968889)
 
 github地址：[document-scanner](https://github.com/NeroAsmarr/blog_doc/tree/master/document-scanner)
 
